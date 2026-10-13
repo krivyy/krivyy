@@ -1,5 +1,5 @@
 ## Hi👋, I'm Terry!
-🎓 Third-year Software Development student at SETU<br>
+🎓 Fourth-year Software Development student at SETU<br>
 💻 Passionate about coding and building projects<br>
 🚀 Always learning new technologies<br>
 🌟 Aspiring to grow as a developer and share my journey <br>
